@@ -76,7 +76,7 @@ Clone/download this repo, then run `Final Project.Rmd` in RStudio.
 
 ------------------------------------------------------------------------
 
-## ▶️ Usage
+## Usage
 
 1.  Place `pilot_data.xlsx` and `airplane_data.xlsx` in your working
     directory.
